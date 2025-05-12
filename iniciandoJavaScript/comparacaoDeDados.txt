@@ -1,0 +1,4 @@
+Operadores de comparação
+==(igual) e ===(Igual. mas compara não somente o valor como também o tipo do valor(Tipo que deve ser mais utilizado))
+!= e !==
+>,>=,<,<=

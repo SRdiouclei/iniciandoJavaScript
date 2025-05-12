@@ -1,0 +1,27 @@
+Armazenam dados para uso no código.
+
+*Criação de variáveis*
+
+3 opções
+var: 
+ex: var nome = "Diouclei";
+let:(Forma mais moderna de declarar varíaveis, também a forma mais usada nas declarações de variaáveis)
+ex : let dia = "Quarta-feira";
+const: (Cria um valor que é constante, sem mudanças, não recebe novas atribuições de valor)
+ex : const mes = "julho";
+
+Nomenclatura de variáveis
+
+Sempre tentar dar nomes significativos a varíaveis, facilitando o entendimento do código(Uma boa prática na programação)
+
+Cases(Forma de escrita da variável)
+
+sem espaços, sem acentuação, sem iniciar com números, sem iniciar com letra maiúscula
+
+camelCase: (modelo mais usado na junção de palavras)
+ex : let nomeDeUsuario = "Diouclei";
+
+snake_case(Separado por underline)
+ex : let nome_de_usuario = "Diouclei";
+
+

@@ -1,0 +1,12 @@
+Executa ENQUANTO uma determinada condição é verdadeira
+
+Pode utilizar o break assim como no switch
+
+IMPORTANTE: Sempre criar uma condição para que a verificação de resultado falso
+para finalizar a execução, geralmente a condição é lida novamente ao final do algorítimo
+
+Sintaxe:
+
+while(condição){
+    //...
+}

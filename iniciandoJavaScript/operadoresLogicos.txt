@@ -1,0 +1,24 @@
+Ligados ao booleano, verdadeiro ou falso
+Avalia as expressões
+E(AND) = Avalia dois valores lógicos e retorna o resultado de acordo com uma tabela verdade.
+Seria a seguinte
+true && true === true
+true && false === false
+false && false === false
+false && true === false
+
+ou(OR) =
+tabela verdade ou(OR)
+true || true === true
+true || false === true
+false || true === true
+false || false === false
+
+não(NOT) = Inverte o resultado, de verdadeiro pra falso ou de falso pra verdadeiro
+tabela verdade do não(NOT)
+!true === false
+!false === true
+
+exemplo para entender 
+9 < 5 === true (resultado da expressão normal)
+!9 < 5 ===false (Resultado da expressão com o operador lógico não(NOT))

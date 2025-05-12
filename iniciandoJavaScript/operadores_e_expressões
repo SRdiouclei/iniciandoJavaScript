@@ -1,0 +1,13 @@
+Operadores:
+
+aritméticos = +,-,*,/ e %
+agrupamento = ()
+atribuição = =, +=,-=,*=,/= e %=
+Encadeamento seria ponto (.) que é usado para encadear funções ou elementos
+ex: console.error('ERRO!') inprime a mensagem ERRO encadeando os elementos console e error
+Incremento e decremento = ++ e --
+
+Expressões
+
+Trechos de código que podem ser avaliados e retornam um resultado.
+

@@ -1,0 +1,9 @@
+Também serve para realizar repetições assim como while e do while.
+Um exemplo de uso comum é para quando queremos iterar um número fixo de vezes, como por exemplo para uma vez a cada letra de uma 
+palavra, ou uma vez para cada item de uma lista
+
+Sintaxe:
+
+for(inicialização;condição;finalização){
+    //...
+}

@@ -1,0 +1,7 @@
+Linhas de código ignorados pelo interpretador
+
+Como aplicar comentários no JavaScript
+
+para comentários de uma linha //
+para comentários de várias linhas /* */
+

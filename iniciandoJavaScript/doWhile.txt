@@ -1,0 +1,7 @@
+Já inicia com a condição sendo executada
+
+SINTAXE:
+
+do{
+    //...
+}while(condição)

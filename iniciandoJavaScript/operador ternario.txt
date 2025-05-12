@@ -1,0 +1,3 @@
+Uma forma abreviada das estrutras condicionais
+Sintaxe:
+var resultado =  condição ? resultado_verdadeiro : resultado_falso

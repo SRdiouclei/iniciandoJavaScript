@@ -1,0 +1,24 @@
+|Tipos Primitivos:
+
+number e bigint >> Numéricos
+Number: é o tipo mais tradicional, tanto para números inteiros ou de ponto flutuantes
+bigint : Números inteiros muito grandes, quanto o tiponumber ja não suporta, somente numeros inteiros.Basta colocar um "n" ao final do número
+
+string
+Tipo caracter(Texto), somente é entendido como texto estando entre aspas(Podendo ser simples ou duplas, sempre padronizar) no código.
+Podem ser entendidas como uma lista de caracteres, podendo acessar pedações específicos.
+
+boolean(valor lógico, 0 ou 1, verdadeiro ou falso)
+Pode ser true or false
+
+
+null e undefined
+null: Valor nulo, sem nada, como se fosse um valor vazio, mas que ainda tem um valor.
+undefined: Indefinido, sem nenhum valor atribuido.
+
+Tipos não Primitivos >>
+
+Objetos:Uma estrutura, conjunto de várias informações, lhe permite armazenar varios cvalores diferentes.
+
+Funções:
+

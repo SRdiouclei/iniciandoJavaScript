@@ -1,0 +1,15 @@
+Estrutura condicional Switch sintaxe
+Switch(expressão){
+    case a:
+    //...
+    break
+    case b:
+    //...
+    break
+    case c:
+    //...
+    break
+    default :
+    //....
+}
+
