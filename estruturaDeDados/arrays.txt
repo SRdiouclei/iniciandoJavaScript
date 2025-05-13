@@ -1,0 +1,16 @@
+Arrays (Vetores)
+Seus elementos são identificados como um índice iniciando em 0
+é criado atravé dos colchetes []
+ex: let array = []
+        array[0] = "Olá"
+        array[1] = 42
+Possuem para vários casos de uso
+podem ser de :
+enfileirar e desenfileirar
+empilhar e desempilhar
+achar o índice de um valor
+cortar e concatenar
+etc
+
+Ler documentação MDN
+
